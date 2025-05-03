@@ -1,4 +1,4 @@
-# MEGA (Modified by *y*Seyori**)
+# MEGA (Modified by **Seyori**)
 
 > **Custom-enhanced Mega.nz Python library with improved large file handling**
 
