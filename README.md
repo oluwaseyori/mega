@@ -1,4 +1,4 @@
-# mega (Modified by **Seyori**)
+# MEGA (Modified by *y*Seyori**)
 
 > **Custom-enhanced Mega.nz Python library with improved large file handling**
 
@@ -17,12 +17,6 @@ Install directly from GitHub:
 
 ```bash
 pip install git+https://github.com/oluwaseyori/mega.git
-```
-
-Or from a local zip:
-
-```bash
-pip install /path/to/custom-mega-py-v2.zip
 ```
 
 ---
@@ -52,6 +46,6 @@ All base functionalities are credited to their original work. This version simpl
 ### **Disclaimer**
 
 This project is not affiliated with Mega.nz or the original mega.py author.  
-Use responsibly and in compliance with Mega.nzâ€™s terms of service.
+Use responsibly and in compliance with Mega.nz's terms of service.
 
 ---
