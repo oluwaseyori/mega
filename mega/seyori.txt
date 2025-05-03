@@ -1,0 +1,4 @@
+VERSION=seyori-1.0
+BUILDER=oluwaseyori
+DATE=2025-05-03
+CONTACT=t.me/s3yorii
