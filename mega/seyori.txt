@@ -2,3 +2,4 @@ VERSION=seyori-1.0
 BUILDER=oluwaseyori
 DATE=2025-05-03
 CONTACT=t.me/s3yorii
+NOTE=This is still a work in progress the bot I implemented this in is t.me/seyorimegadlbot
