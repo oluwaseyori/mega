@@ -6,13 +6,11 @@ setup(
     version='1.0.0',
     packages=find_packages(),
     install_requires=[],
-    author='oluwaseyori',
-    author_email='oshodioluwaseyori@gmail.com'
+    author='Seyori',
     description='Custom Mega.nz wrapper for large file transfers without bandwidth limits.',
     url='https://github.com/oluwaseyori/mega',
     classifiers=[
         'Programming Language :: Python :: 3',
         'Operating System :: OS Independent',
-    ],
-    include_package_data=True,
+    ]
 )
