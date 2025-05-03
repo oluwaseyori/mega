@@ -1,13 +1,13 @@
-# Work in progress if you find this project and can make inputs contact me via telegram t.me/s3yorii
+# Work in progress. If you find this project and can make inputs, contact me via Telegram: t.me/s3yorii
 from setuptools import setup, find_packages
 
 setup(
     name='mega',
-    version='1.0.0',
+    version='seyori-1.0',
     packages=find_packages(),
     install_requires=[],
-    author='Seyori',
-    description='I modified this to be able to handle large file transfers with no bandwith limit',
+    author='oluwaseyori',
+    description='Custom Mega.nz wrapper for large file transfers without bandwidth limits.',
     url='https://github.com/oluwaseyori/mega',
     classifiers=[
         'Programming Language :: Python :: 3',
