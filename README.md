@@ -7,7 +7,7 @@
 ### **Purpose**
 
 This is a **custom-modified version** of the original [mega.py](https://github.com/odwyersoftware/mega.py) library.  
-It is designed to better support **large file transfers** without bandwidth limits or timeout errors â€” perfect for bots and automated environments.
+It is designed to better support **large file transfers** without bandwidth limits or timeout errors perfect for bots and automated environments.
 
 ---
 
