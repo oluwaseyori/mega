@@ -1,4 +1,4 @@
-# errors.py from original mega package
+# Work in progress. If you find this project and can make inputs, contact me via Telegram: t.me/s3yorii
 class ValidationError(Exception):
     """
     Error in validation stage
