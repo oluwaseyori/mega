@@ -120,4 +120,4 @@ def make_id(length):
     possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"
     for i in range(length):
         text += random.choice(possible)
-    return text=
+    return text
