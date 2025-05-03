@@ -1,4 +1,4 @@
-# crypto.py from original mega package
+# Work in progress. If you find this project and can make inputs, contact me via Telegram: t.me/s3yorii
 from Crypto.Cipher import AES
 import json
 import base64
