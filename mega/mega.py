@@ -1,4 +1,4 @@
-# Your modified mega.py code goes here
+# Work in progress. If you find this project and can make inputs, contact me via Telegram: t.me/s3yorii
 import math
 import re
 import json
