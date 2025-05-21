@@ -1,4 +1,4 @@
-# Work in progress. If you find this project and can make inputs, contact me via Telegram: t.me/s3yorii
+# Work in progress. If you find this project and can make inputs, contact me via Telegram: t.me/s3yori
 from Crypto.Cipher import AES
 import json
 import base64
