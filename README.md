@@ -31,7 +31,7 @@ pip uninstall mega
 
 ### **Author**
 
-- **Modified by:** [Seyori](https://t.me/s3yorii)
+- **Modified by:** [Seyori](https://t.me/s3yori)
 - **Date:** May 3, 2025
 
 ---
